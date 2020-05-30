@@ -1,0 +1,66 @@
+#main{
+    background-color: whitesmoke;
+}
+
+#title{
+    font: bold normal normal 30pt "Times New Roman", Charcoal, Fantasy;
+    text-align: center;
+    padding-top: 70px ;
+    padding-bottom: 44px;
+    color: #333;
+}
+
+#subtitle{
+    color: #5d5d5d;
+    text-align: center;
+    font-size: 14pt;
+    padding-bottom: 15px;
+}
+
+#img-div{
+    margin: 0 auto;
+    background-color: white;;
+}
+
+#image{
+    width: 100%;
+    margin: 10px auto;
+    padding: 10px auto;
+}
+
+#img-caption{
+    text-align: center;
+    color: #878787;
+    padding: 20px;
+    font: normal normal normal 14pt "Times New Roman", Arial, Helvetica;
+}
+
+#list-title{
+    font: bold normal normal 16pt "Times New Roman", Charcoal, Fantasy;
+    text-align: center;
+    margin: 30px;
+}
+
+#tribute-info{
+    width: 80%;
+    margin: 0 auto;
+    text-align: justify;
+    font: normal normal normal 12pt/12pt "Times New Roman", Arial, Sans-Serif;
+}
+
+ul li:nth-child(odd){
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+#quote{
+    margin-left: 25px;
+    font-style: italic;
+    margin-bottom: 25px;
+}
+
+#footer{
+    font: bold normal normal 16pt "Times New Roman", Charcoal, Fantasy;
+    text-align: center;
+    margin: 30px;
+}
